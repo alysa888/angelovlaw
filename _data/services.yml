@@ -1,14 +1,20 @@
-- name: Corporate
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+- name: Visitor Visa
+  description: The Visitor Visa allows entry to the UK for up to six months per visit. While paid work is generally not permitted, limited exceptions exist for permitted paid engagements with the appropriate supporting documents. This includes musicians participating in performances, academics delivering paid lectures, and lawyers representing clients. Business representatives may engage in negotiations, and volunteers can undertake unpaid work for up to 30 days at designated charities.Additionally, the Marriage Visitor Visa specifically caters to couples planning to marry in the UK during their visit but who do not intend to live in the UK long-term.
 
-- name: Litigation
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+- name: Student Visa
+  description: Child Student Visa allows child student who are aged 4-17 to study in the UK if they acquire their parents/guardians’ authorisation and receive the unconditional offer and Confirmation of Acceptance for Studies(CAS) from licensed independent schools. 
+ <p> Students aged 16 and above, who have received CAS from a licensed student sponsor for a permitted course and met the knowledge of English requirements and financial requirements, may apply for a visa to study in the UK.</p>
 
-- name: Intellectual Property
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+- name: Graduate Visa
+  description: International students in the UK with a student visa may be eligible to apply for a Graduate Visa upon completing their studies. Bachelor’s and Master’s degree holders are eligible for a two-year visa, while doctoral degree holders are eligible for a three-year visa. Graduate visa holders can seek employment, engage in self-employment or start their businesses in the UK. This visa cannot be extended but allows holders to switch to a work visa or other types of visas while in the UK.
 
-- name: Commercial
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+- name: High Potential Individual Visa
+  description: This visa is available for individuals who have graduated in the last five years from non-UK institutions ranked in the top 50 of two global university rankings (which are updated annually). Bachelor’s and Master’s degree holders are eligible for a two-year visa, while doctoral graduates may be eligible for a three-year visa. 
 
-- name: Privacy
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+<p>This visa allows holders to work, be self-employed or start a business in the UK without a sponsor, providing a flexible pathway for talented individuals. </p>
+
+- name: Skilled Worker Visa
+ description: This is a common type of work visa in the United Kingdom. Applicants must have a job offer from an employer who holds a sponsor licence and is willing to assign a Certificate of Sponsorship (CoS). The job must fall within certain categories eligible for this visa. Applicants are required to meet specified salary and skill level requirements, and to meet the English language requirement. A financial requirement must also be satisfied, which can be met if an A-rated sponsor certifies their willingness and ability to maintain and accommodate the applicant to at least £1,270, if necessary. Normally, applicants must be paid at least £38,700 (or the higher going rate), but they may qualify for a lower salary under certain conditions.
+
+
+
