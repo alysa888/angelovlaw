@@ -1,53 +1,12 @@
-- name: John Roberts
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: john.jpg
-  email: john@lawfirm.com
-  phone: "+1 650 000 001"
+- name: Filip Angelov  Solicitor / Director
+  bio: Filip Angelov has amassed significant experience in the area of immigration and nationality law since 2016. His professional experience during this time includes roles at a Chambers and Legal 500 ranked Scottish law firm, where he focused on business immigration. Filip also worked in a leading London-based immigration law firm, where his work involved both business and personal immigration matters. Filip is actively engaged in complex casework and has developed a particular interest in EEA law, specialising in complex applications and appeals under the EU Settlement Scheme after Brexit. Filip is fluent in Bulgarian language and is a Scottish Notary Public registered with the FCO.
+  picture: filip.jpg
+  email: info@angelov.law
+  phone: "+44 20 8088 2555"
 
-- name: Clarence Thomas
-  bio: Lorem ipsum dolor sit amet. Quisque finibus rutrum nisl, ac viverra nunc mattis non. Phasellus in purus nec mi tempor vehicula eu sed magna.
-  picture: clarence.jpg
-  email: clarence@lawfirm.com
-  phone: "+1 650 000 002"
-
-- name: Ruth Bader Ginsburg
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: ruth.jpg
-  email: ruth@lawfirm.com
-  phone: "+1 650 000 003"
-
-- name: Stephen Breyer
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: stephen.jpg
-  email: stephen@lawfirm.com
-  phone: "+1 650 000 004"
-
-- name: Samuel Alito
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: samuel.jpg
-  email: samuel@lawfirm.com
-  phone: "+1 650 000 005"
-
-- name: Sonia Sotomayor
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: sonia.jpg
-  email: sonia@lawfirm.com
-  phone: "+1 650 000 006"
-
-- name: Elena Kagan
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: elena.jpg
-  email: elena@lawfirm.com
-  phone: "+1 650 000 007"
-
-- name: Neil Gorsuch
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: neil.jpg
-  email: neil@lawfirm.com
-  phone: "+1 650 000 008"
-
-- name: Brett Kavanaught
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: brett.jpg
-  email: brett@lawfirm.com
-  phone: "+1 650 000 009"
+- name: Xinhui Lai
+  bio: Xinhui Lai graduated with bachelor’s degrees and master’s degrees in both music and law from Royal Conservatoire of Scotland, University of Glasgow and University of Strathclyde. Xinhui worked as a Mandarin interpreter focusing on court work for six years prior to commencing her traineeship. She previously volunteered as a generalist advisor at Citizen Advice Bureau.
+  picture: xinhui.jpg
+  email: xinhui@angelov.law
+  phone: "+44 20 8088 2555"
+  
